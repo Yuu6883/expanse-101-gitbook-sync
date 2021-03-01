@@ -1,3 +1,7 @@
+---
+description: Hello world
+---
+
 # Getting Started
 
 ![Expanse Overview](../.gitbook/assets/expanse_overview.png)
