@@ -4,7 +4,7 @@ description: Hello world
 
 # Getting Started
 
-![Expanse Overview](../.gitbook/assets/expanse_overview.png)
+![Expanse Overview](../../.gitbook/assets/expanse_overview.png)
 
 
 
@@ -16,7 +16,7 @@ description: Hello world
 * Supports interactive computing and science gateways.
 * Will offer Composible Systems and Cloud Bursting.
 
-![Expanse Heterogeneous Architecture](../.gitbook/assets/expanse_heterogeneous_arch.png)
+![Expanse Heterogeneous Architecture](../../.gitbook/assets/expanse_heterogeneous_arch.png)
 
 
 
@@ -38,15 +38,15 @@ description: Hello world
 
 ### Expanse Scaleable Compute Unit
 
-![](../.gitbook/assets/expanse_sccu.png)
+![](../../.gitbook/assets/expanse_sccu.png)
 
 ### Expanse Connectivity Fabric
 
-![](../.gitbook/assets/expanse_connectivity_fabric.png)
+![](../../.gitbook/assets/expanse_connectivity_fabric.png)
 
 ### AMD EPYC 7742 Processor Architecture
 
-![](../.gitbook/assets/amd-epyc-7742-processor-arch.png)
+![](../../.gitbook/assets/amd-epyc-7742-processor-arch.png)
 
 * 8 Core Complex Dies \(CCDs\).
 * CCDs connect to memory, I/O, and each other through the I/O Die.
@@ -62,7 +62,7 @@ description: Hello world
 
 ### Composable Systems
 
-![](../.gitbook/assets/expanse_composable_systems.png)
+![](../../.gitbook/assets/expanse_composable_systems.png)
 
 #### Composable Systems will support complex, distributed, workflows – making Expanse part of a larger CI ecosystem
 
@@ -75,7 +75,7 @@ description: Hello world
 
 ### Cloud Bursting
 
-![](../.gitbook/assets/expanse_cloud_burst_aws.png)
+![](../../.gitbook/assets/expanse_cloud_burst_aws.png)
 
 #### Expanse will support integration with public clouds
 

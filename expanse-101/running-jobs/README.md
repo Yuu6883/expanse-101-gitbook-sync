@@ -4,7 +4,7 @@
 
 ### Distributed Memory
 
-![](../.gitbook/assets/distr-memory.png)
+![](../../.gitbook/assets/distr-memory.png)
 
 * Programs that run asynchronously, pass messages for communication and coordination between resources.
 * Examples include: SOA-based systems, massively multiplayer online games, peer-to-peer apps.
@@ -13,7 +13,7 @@
 
 ### Shared Memory
 
-![](../.gitbook/assets/shared-memory.png)
+![](../../.gitbook/assets/shared-memory.png)
 
 * CPUs all share same localized memory \(SHMEM\)
   * Coordination and communication between tasks via interprocessor communication \(IPC\) or virtual memory mappings.
